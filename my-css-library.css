@@ -1,0 +1,179 @@
+/*
+* przy page-300, gdy chcemy cos oddalic, <div class="placeholder-100">,
+* potem <div class="col-lg-2 placeholder-100">,
+* potem zawartosc oddalona w col-lg-7
+*/
+
+/*
+* mozliwe, ze prawidlowe uogolnienie:
+* przy page-n, gdy cos oddalamy, <div class="placeholder-(n/3)"> (placeholder pionowy),
+* potem przy <div class="col-lg-(n/150 lub (n / 3 * 2) / 100) placeholder-(n/3)" (placeholder poziomy),
+* potem zawartosc oddalona w col-lg-((n * 3,5) / 150 lub ((n / 3) * 2 * 3,5) / 100)
+* czyli placeholder pionowy, zwyczajny placeholder (najlepiej nie w kolumnie bootstrapa)
+* a poziomy w kolumnie, która jest albow innym rzędzie, albo za duża i przechodzi do następnego rzędu
+*/
+h1#title-header
+{
+    text-align: center;
+    font-size: 4em;
+}
+div.placeholder-25
+{
+    block-size: 25px;
+    inline-size: 25px;
+}
+div.placeholder-50
+{
+    block-size: 50px;
+    inline-size: 50px;
+}
+div.placeholder-75
+{
+    block-size: 75px;
+    inline-size: 75px;
+}
+div.placeholder-100
+{
+    block-size: 100px;
+    inline-size: 100px;
+}
+div.placeholder-125
+{
+    block-size: 125px;
+    inline-size: 125px;
+}
+div.placeholder-150
+{
+    block-size: 150px;
+    inline-size: 150px;
+}
+div.placeholder-175
+{
+    block-size: 175px;
+    inline-size: 175px;
+}
+div.placeholder-200
+{
+    block-size: 200px;
+    inline-size: 200px;
+}
+div.placeholder-250
+{
+    block-size: 250px;
+    inline-size: 250px;
+}
+div.placeholder-300
+{
+    block-size: 300px;
+    inline-size: 300px;
+}
+div.placeholder-350
+{
+    block-size: 350px;
+    inline-size: 350px;
+}
+div.placeholder-400
+{
+    block-size: 400px;
+    inline-size: 400px;
+}
+div.placeholder-450
+{
+    block-size: 450px;
+    inline-size: 450px;
+}
+div.placeholder-500
+{
+    block-size: 500px;
+    inline-size: 500px;
+}
+div.placeholder-550
+{
+    block-size: 550px;
+    inline-size: 550px;
+}
+div.placeholder-600
+{
+    block-size: 600px;
+    inline-size: 600px;
+}
+div.placeholder-650
+{
+    block-size: 650px;
+    inline-size: 650px;
+}
+div.placeholder-700
+{
+    block-size: 700px;
+    inline-size: 700px;
+}
+div.placeholder-750
+{
+    block-size: 750px;
+    inline-size: 750px;
+}
+/*Do głównego div'a, w którym będzie cała zawartość strony lub bez nagłówka, jeśli ktoś napisze go poza tym div'em*/
+div#page-100
+{
+    margin: 100px;
+}
+div#page-100-50
+{
+    margin: 100px left, 100px, 50px top, 50px bottom;
+}
+div#page-50-100
+{
+    margin: 50px left, 50px right, 100px top, 100px bottom;
+}
+div#page-100-normalised
+{
+    margin: 100px left, 100px right, 141.4214px top, 141.4214px bottom;
+}
+div#page-100-fib
+{
+    margin: 100px left, 100px right, 161.8034px top, 161.8034px bottom;
+}
+div#page-200
+{
+    margin: 200px;
+}
+div#page-200-100
+{
+    margin: 200px left, 200px right, 100px top, 100px bottom;
+}
+div#page-100-200
+{
+    margin: 100px left, 100px right, 200px top, 200px bottom;
+}
+div#page-200-normalised
+{
+    margin: 200px left, 200px right, 282.8427px top, 282.8427px bottom;
+}
+div#page-200-fib
+{
+    margin: 200px left, 200px right, 323.6067px top, 323.6067px bottom;
+}
+div#page-300
+{
+    margin: 300px;
+}
+div#page-300-150
+{
+    margin: 300px left, 300px right, 150px top, 150px bottom;
+}
+div#page-150-300
+{
+    margin: 150px left, 150px right, 300px top, 300px bottom;
+}
+div#page-300-normalised
+{
+    margin: left 300px, 300px right, 424.2641px top, 424.2641px bottom;
+}
+div#page-300-fib
+{
+    margin: 300px left, 300px right, 485.4102px top, 485.4102px bottom;
+}
+div[class*="placeholder-100"]>p.help-in-adapt-300-ph-100-l
+{
+  margin-left: 15px;
+}
