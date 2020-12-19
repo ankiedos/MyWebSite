@@ -20,7 +20,7 @@ Chociaż w sumie [HTML to nie programowanie](https://pl.wikipedia.org/wiki/HTML)
   - i Python
 - Rozwijam się w kierunku:
   - Q#,
-  - CPL (ten stary, z połowy XX wieku, a nie [to coś]("https://cplcode.net")),
+  - CPL (ten stary, z połowy XX wieku, a nie [to coś](https://cplcode.net)),
   - BCPL,
   - D,
   - języków asemblera,
