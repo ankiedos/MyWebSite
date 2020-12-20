@@ -8,4 +8,4 @@ title: Oldschoolprogrammer | Strona główna
 
 
 
-#### [O mnie](about.md)
+#### [O mnie](about.md)     [Potencjalnie Zadawane Pytania](PAQ.md)
