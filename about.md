@@ -25,3 +25,6 @@ Chociaż w sumie [HTML](https://pl.wikipedia.org/wiki/HTML), ani [Markdown](http
   - języków asemblera,
   - administracji systemami operacyjnymi
 - Jeszcze jedno: jestem na profilu rozszerzonym z matematyki i fizyki, więc nie jest tutaj tylko o informatyce
+
+Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos/github.io>
+#### [Potencjalnie Zadawane Pytania](PAQ.md)
