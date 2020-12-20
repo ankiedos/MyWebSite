@@ -5,7 +5,7 @@ title: Oldschoolprogrammer | Strona główna
 
 #### O Autorze
 - Jeszcze nie jestem programistą z zawodu, ale umiem dużo jeśli chodzi o programowanie... Inaczej bym tej strony nie napisał :)
-Chociaż w sumie [HTML to nie programowanie](https://pl.wikipedia.org/wiki/HTML)
+Chociaż w sumie [HTML](https://pl.wikipedia.org/wiki/HTML), ani [Markdown](https://pl.wikipedia.org/wiki/Markdown) to nie programowanie.
 - Najbardziej znam się na językach:
   - C,
   - C++,
