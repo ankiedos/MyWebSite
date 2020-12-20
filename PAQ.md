@@ -7,7 +7,7 @@ title: Oldschoolprogrammer | Potencjalnie Zadawane Pytania (PAQ)
     <dt>Dlaczego strona nazywa się "ankiedos.github.io", zamiast "oldschoolprogrammer.pl"?</dt>
     <dd>Ponieważ nie umiem jeszcze odpowiednio konfigurować stron internetowych, oraz jeśli bym miał własną nazwę domeny, to github nie pozwoliłby na zaszyfrowanie jej protokołem https</dd>
     <dt>Czemu "oldschoolprogrammer"?</dt>
-    <dd>Albowiem wolę **stare** języki typu Fortan i CPL od nowszych typu Java i Kotlin</dd>
+    <dd>Albowiem wolę <b>stare</b> języki typu Fortan i CPL od nowszych typu Java i Kotlin</dd>
 </dl>
 
 Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos/github.io>
