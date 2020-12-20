@@ -10,5 +10,5 @@ title: Oldschoolprogrammer | Potencjalnie Zadawane Pytania (PAQ)
     <dd>Albowiem wolę <strong>stare</strong> języki typu Fortan i CPL od nowszych typu Java i Kotlin</dd>
 </dl>
 
-###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos/github.io>
+###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos.github.io>
 #### [O mnie](about.md)
