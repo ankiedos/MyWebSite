@@ -1,5 +1,5 @@
 ---
-title: Ścisłowiec
+title: Oldschoolprogrammer | Strona główna
 ---
 # Blog o przedmiotach ścisłych
 
