@@ -8,7 +8,7 @@ layout: default
 # Wszystko, co jest rdzeniem witryny
 -----
 
-{% for post in strona %}
+{% for post in site.categories.strona %}
     - [{{ post.title }}]({{ post.url }})
 ###### {{ post.date | date: "%b %-d, %Y" }}
 {% endfor %}
