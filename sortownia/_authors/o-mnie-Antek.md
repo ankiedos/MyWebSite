@@ -32,9 +32,9 @@ Chociaż w sumie ani [HTML](https://pl.wikipedia.org/wiki/HTML), ani [Markdown](
 - Jeszcze jedno: jestem na profilu rozszerzonym z matematyki i fizyki, więc nie jest tutaj tylko o informatyce
 -----
 # Artykuły
-{% for post in site.posts %}
-  {% if post.author == "Antek" %}
-  - [{{ post.title }}]({{post.url }})
-  ###### {{ post.date | date: "%b %-d, %Y" }}
+{% for pages in site.pages %}
+  {% if pages.author == "Antek" %}
+  - [{{ pages.title }}]({{pages.url }})
+  ###### {{ pages.date | date: "%b %-d, %Y" }}
   {% endif %}
 {% endfor %}
