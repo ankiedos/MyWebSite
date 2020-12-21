@@ -1,1 +1,16 @@
 theme: jekyll-theme-hacker
+collections:
+  categories:
+    output: true
+  tags:
+    output: true
+  posts:
+    output: true
+  authors:
+collections_dir: sortownia
+markdown:
+  kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge

@@ -1,14 +1,16 @@
 ---
-title: Oldschoolprogrammer | Potencjalnie Zadawane Pytania (PAQ)
+title: Potencjalnie Zadawane Pytania (PAQ) | Oldschoolprogrammer
+author: Antek
+description: PAQ
+category: strona
+tags: strona paq
+layout: default
 ---
 
 # PAQ
 <dl>
-    <dt>Dlaczego strona nazywa się "ankiedos.github.io", zamiast "oldschoolprogrammer.pl"?</dt>
-    <dd>Ponieważ nie umiem jeszcze odpowiednio konfigurować stron internetowych, więc korzystam z GitHub Pages, przez co, jeśli bym miał własną nazwę domeny, to GitHub nie pozwoliłby na zaszyfrowanie jej protokołem https</dd>
+    <dt>Dlaczego witryna nazywa się "ankiedos.github.io", zamiast "oldschoolprogrammer.pl"?</dt>
+    <dd>Ponieważ nie umiem jeszcze odpowiednio konfigurować stron internetowych i korzystam z GitHub Pages, przez co, jeśli bym miał własną nazwę domeny, to GitHub nie pozwoliłby na zaszyfrowanie jej protokołem https automatycznie</dd>
     <dt>Czemu "oldschoolprogrammer"?</dt>
-    <dd>Albowiem wolę <strong>stare</strong> języki typu Fortan i CPL od nowszych typu Java i Kotlin</dd>
+    <dd>Albowiem wolę <strong>stare</strong> języki, takie jak Fortan i CPL od nowszych typu Java i Kotlin</dd>
 </dl>
-
-###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos.github.io>
-#### [O mnie](about.md)

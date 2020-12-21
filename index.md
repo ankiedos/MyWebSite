@@ -1,10 +1,12 @@
 ---
-title: Oldschoolprogrammer | Strona główna
+title: Strona główna | Oldschoolprogrammer
+author: Antek
+description: Strona główna
+category: strona
+tag: strona
+layout: default
 ---
-# Blog o przedmiotach ścisłych
-
-
-
-
-###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos.github.io>
-#### [O mnie](about.md)     [Potencjalnie Zadawane Pytania](PAQ.md)
+# Strona o naukach ścisłych
+#### [Artykuły](https://ankiedos.github.io/blog.md)
+#### [Kategorie](https://ankiedos.github.io/kategorie.md)
+#### [Tagi](https://ankiedos.github.io/tagi.md)
