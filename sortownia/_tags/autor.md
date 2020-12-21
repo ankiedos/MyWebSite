@@ -5,11 +5,11 @@ description: Tag autor
 tag: autor
 layout: default
 ---
-Wszytko, co dotyczy autorów strony
+# Wszytko, co dotyczy autorów strony
 -----
-{% assign autor = site.tags.autor | sort "date" %}
-{% for post in autor %}
+
+{% for post in site.tags.autor %}
     {% if post.author == %}
-    - [ {{ post.title }} ]( {{ post.url }} )
+    - [{{ post.title }}]({{ post.url }})
 ###### {{ post.date | date: "%b %-d, %Y" }}
 {% endfor %}
