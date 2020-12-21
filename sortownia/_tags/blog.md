@@ -6,8 +6,8 @@ tag: blog
 ---
 Wszytko, co dotyczy bloga
 -----
-{% assign blog = site.tags.blog | sort "date" %}
-{% for blog_ in blog %}
-    - [ {{ post.title }} ]( {{ post.url }} )
-###### {{ post.date | date: "%b %-d, %Y" }}
+
+{% for blog_ in site.tags.blog %}
+    - [ {{ blog_.title }} ]( {{ blog_.url }} )
+###### {{ blog_.date | date: "%b %-d, %Y" }}
 {% endfor %}
