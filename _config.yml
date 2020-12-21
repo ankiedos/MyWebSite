@@ -7,10 +7,5 @@ collections:
   posts:
     output: true
   authors:
+    output: true
 collections_dir: sortownia
-markdown:
-  kramdown:
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
