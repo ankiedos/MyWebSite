@@ -4,7 +4,6 @@ author: Antek
 description: Blog
 category: strona
 tags: strona blog
-layout: default
 ---
 # Artykuły
 
