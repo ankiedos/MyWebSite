@@ -5,10 +5,10 @@ description: linki u dołu strony
 category: kulisy
 ---
 - name: Strona główna
-  link: /index.md
+  link: https://ankiedos.github.io/index.md
 - name: O mnie
   link: https://ankiedos.github.io/sortownia/o-mnie-Antek.md
 - name: Potencjalnie Zadawane Pytania
-  link: /PAQ.md
+  link: https://ankiedos.github.io/PAQ.md
 - name: Harmonogram
-  link: /harmonogram.md
+  link: https://ankiedos.github.io/harmonogram.md
