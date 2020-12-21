@@ -34,7 +34,7 @@ Chociaż w sumie ani [HTML](https://pl.wikipedia.org/wiki/HTML), ani [Markdown](
 # Artykuły
 {% for post in site.posts %}
   {% if post.author == "Antek" %}
-  - [ {{ post.title }} ]( {{ post.url }} )
+  - [{{ post.title }}]({{post.url }})
   ###### {{ post.date | date: "%b %-d, %Y" }}
   {% endif %}
 {% endfor %}
