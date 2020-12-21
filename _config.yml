@@ -8,6 +8,4 @@ collections:
     output: true
   authors:
     output: true
-  data:
-    output: true
 collections_dir: sortownia
