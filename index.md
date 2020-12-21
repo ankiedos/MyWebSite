@@ -4,7 +4,7 @@ author: Antek
 description: Strona główna
 category: strona
 tag: strona
-layout: default
+<!--layout: default-->
 ---
 # Strona o naukach ścisłych
 #### <a href="https://ankiedos.github.io/blog.md">Artykuły</a>
