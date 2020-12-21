@@ -4,7 +4,6 @@ author: Antek
 description: O autorze - Antek
 category: strona
 tags: strona autor
-layout: default
 ---
 
 # O Autorze
