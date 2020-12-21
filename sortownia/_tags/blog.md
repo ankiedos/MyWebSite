@@ -3,7 +3,6 @@ title: Strona tagu blog | Oldschoolprogrammer
 author: Antek
 description: Tag blog
 tag: blog
-layout: default
 ---
 Wszytko, co dotyczy bloga
 -----
