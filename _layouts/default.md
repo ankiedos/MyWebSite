@@ -3,4 +3,4 @@
 {% include navigation.md %}
 
 
-<h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos/github.io">https://github.com/ankiedos/ankiedos/github.io</a></h6>
+###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos.github.io>
