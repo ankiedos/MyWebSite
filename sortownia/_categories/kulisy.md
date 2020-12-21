@@ -7,8 +7,8 @@ category: kulisy
 ---
 Dla osób ciekawych, co się znajduje za kulisami umożliwiam dostęp do tych plików
 -----
-{% assign kulisy = site.categories.kulisy | sort "date" %}
+{% assign kulisy = site.categories.kulisy | sort "page.date" %}
 {% for post in kulisy %}
-    - [ {{ post.title }} ]( {{ post.url }} )
+    - [{{ post.title }}]({{ post.url }})
 ###### {{ post.date | date: "%b %-d, %Y" }}
 {% endfor %}
