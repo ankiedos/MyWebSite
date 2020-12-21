@@ -3,7 +3,6 @@ title: Strona tagu autor | Oldschoolprogrammer
 author: Antek
 description: Tag autor
 tag: autor
-layout: default
 ---
 # Wszytko, co dotyczy autorów strony
 -----
