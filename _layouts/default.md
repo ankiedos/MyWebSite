@@ -1,15 +1,6 @@
 ---
 ---
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>{{ page.title }}</title>
 		<!--<link rel="stylesheet" href="https://ankiedos.github.io/assets/css/styles.css">-->
-	</head>
-	<body>
-		{{ content }}<br>
+		{{ content }}
 		{% include navigation.md %}
-		<h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos/github.io"></a></h6>
-	</body>
-</html>
+		###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos/github.io>
