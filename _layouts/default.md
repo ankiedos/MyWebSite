@@ -1,5 +1,3 @@
----
----
 <!--<link rel="stylesheet" href="https://ankiedos.github.io/assets/css/styles.css">-->
 {{ content }}
 {% include navigation.md %}
