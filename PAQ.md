@@ -4,7 +4,6 @@ author: Antek
 description: PAQ
 category: strona
 tags: strona paq
-layout: default
 ---
 
 # PAQ
