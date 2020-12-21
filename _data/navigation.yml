@@ -1,8 +1,8 @@
 - name: Strona główna
-  link: https://ankiedos.github.io/index.md
+  link: https://ankiedos.github.io/index.html
 # - name: O mnie
-#   link: https://ankiedos.github.io/sortownia/o-mnie-Antek.md
+#   link: https://ankiedos.github.io/sortownia/o-mnie-Antek.html
 - name: Potencjalnie Zadawane Pytania
-  link: https://ankiedos.github.io/PAQ.md
+  link: https://ankiedos.github.io/PAQ.html
 # - name: Harmonogram
-#  link: https://ankiedos.github.io/harmonogram.md
+#  link: https://ankiedos.github.io/harmonogram.html
