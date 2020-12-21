@@ -7,8 +7,8 @@ layout: default
 ---
 Wszystko, co jest rdzeniem witryny
 -----
-{% assign strona = site.categories.strona | sort "date" %}
+{% assign strona = site.categories.strona | sort "page.date" %}
 {% for post in strona %}
-    - [ {{ post.title }} ]( {{ post.url }} )
+    - [{{ post.title }}]({{ post.url }})
 ###### {{ post.date | date: "%b %-d, %Y" }}
 {% endfor %}
