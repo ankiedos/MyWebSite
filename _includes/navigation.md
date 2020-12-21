@@ -1,3 +1,5 @@
-{% for item in site.data.navigation %}
-#### [{{ item.name }}]({{ item.link }} {% if page.url == item.link %} "class="current"{% endif %}")<br>
-{% endfor %}
+<h4>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
+  {% endfor %}
+</h4>
