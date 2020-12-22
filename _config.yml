@@ -11,4 +11,6 @@ collections:
     output: true
   layouts:
     output: true
+  includes:
+    output: true
 collections_dir: sortownia
