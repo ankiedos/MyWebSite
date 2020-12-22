@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: hacker
 
 collections:
   categories:
@@ -8,9 +8,5 @@ collections:
   posts:
     output: true
   authors:
-    output: true
-  layouts:
-    output: true
-  includes:
     output: true
 collections_dir: sortownia
