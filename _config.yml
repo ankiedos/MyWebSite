@@ -9,4 +9,6 @@ collections:
     output: true
   authors:
     output: true
+  layouts:
+    output: true
 collections_dir: sortownia
