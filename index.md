@@ -8,9 +8,9 @@ tag: strona
 <!--layout: default-->
 
 # Strona o naukach ścisłych
-  #### <a href="https://ankiedos.github.io/blog.md">Artykuły</a>
-  #### <a href="https://ankiedos.github.io/kategorie.md">Kategorie</a>
-  #### <a href="https://ankiedos.github.io/tagi.md">Tagi</a>
+  #### [Artykułe](https://ankiedos.github.io/blog.md)
+  #### [Kategorie](https://ankiedos.github.io/kategorie.md)
+  #### [Tagi](https://ankiedos.github.io/tagi.md)
 
 
 ###### Widzisz literówkę? Popraw i zgłoś: <https://github.com/ankiedos/ankiedos.github.io>
