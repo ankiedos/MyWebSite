@@ -7,6 +7,4 @@ collections:
     output: true
   posts:
     output: true
-  authors:
-    output: true
 collections_dir: sortownia
