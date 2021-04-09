@@ -5,7 +5,7 @@ description: Pierwszy post na blogu
 category: Blog
 tags: blog jekyll gh-pages
 layout: post
-date: 09.04.2021
+date: "09.04.2021"
 url: https://ankiedos.github.io/2021-04-09-pierwszy-post.html # Helper for blog.html
 ---
 
