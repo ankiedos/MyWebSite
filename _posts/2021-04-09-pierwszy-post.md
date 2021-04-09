@@ -5,7 +5,7 @@ description: Pierwszy post na blogu
 category: Blog
 tags: blog jekyll gh-pages
 layout: post
-date: "09.04.2021"
+date: 09-04-2021
 url: https://ankiedos.github.io/2021-04-09-pierwszy-post.html # Helper for blog.html
 ---
 
@@ -21,4 +21,6 @@ Bloga tworzyłem od grudnia 2020, ale coś się ciągle psuło. Udało mi się t
 
 Opowiem Wam o tym problemie, abyście wiedzieli na przyszłość.
 
-Jeśli tworzycie stronę na GitHub Pages i korzystacie z któregoś tam dostępnego szablonu, ale **oficjalnego**, czyli stworzonego przez GitHub Pages, a jednocześnie uczycie się Jekylla z [ich oficjalnej strony](https://jekyllrb.com), to zanim stworzycie jakikolwiek styl lub layout, **przeczytajcie informację zawartą w pliku README.md w repozytorium tego szablonu**. Na przykład ja korzystam z szablonu `hacker`, którego strona to https://github.com/pages-themes/hacker.
+Jeśli tworzycie stronę na GitHub Pages i korzystacie z któregoś tam dostępnego szablonu, ale **oficjalnego**, czyli stworzonego przez GitHub Pages, a jednocześnie uczycie się Jekylla z [ich oficjalnej strony](https://jekyllrb.com),
+to zanim stworzycie jakikolwiek styl lub layout, **przeczytajcie informację zawartą w pliku README.md w repozytorium tego szablonu**.
+Na przykład ja korzystam z szablonu `hacker`, którego strona to https://github.com/pages-themes/hacker.
