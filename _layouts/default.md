@@ -32,6 +32,7 @@
 		<hr>
 {% include navigation.md %}
 		<h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos.github.io">https://github.com/ankiedos/ankiedos.github.io</a></h6>
+    <h6><small>Autorem jest Antoni Kiedos | 2021 - {{ "now" | date: "%Y" }}</small></h6>
       </section>
     </div>
 {% if site.google_analytics %}
