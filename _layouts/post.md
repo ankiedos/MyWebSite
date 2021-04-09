@@ -7,5 +7,5 @@ layout: default
 <p>{{ content }}</p>
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small>tagi: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}

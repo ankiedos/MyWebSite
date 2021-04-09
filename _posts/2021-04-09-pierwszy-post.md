@@ -1,7 +1,7 @@
 ---
-title: Pierwszy post | Oldschoolprogrammer
+title: "Pierwszy post | Oldschoolprogrammer"
 author: Antek
-description: Pierwszy post na blogu
+description: "Pierwszy post na blogu"
 category: Blog
 tags: blog jekyll gh-pages
 layout: post
