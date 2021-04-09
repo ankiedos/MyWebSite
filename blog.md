@@ -7,6 +7,6 @@ layout: default
 
 {%- for post in site.posts -%}
 
-[{{ post.title | truncatewords 3, "" }}]({{ post.url | relative_url }}) - {{ post.date }}, autor: {{ post.author }}
+[{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date }}, autor: {{ post.author }}
 
 {%- endfor -%}
