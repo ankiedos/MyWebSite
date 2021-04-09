@@ -1,3 +1,5 @@
+---
+---
 var current = document.querySelector(".current")[0];
 var link_txt = current.innerText;
 var new_p = document.createElement("p");
