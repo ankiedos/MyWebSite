@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 
 brand: Oldschoolprogrammer
 my_grade: 1
-my_school: "liceum"
+my_school: liceum
 
 collections:
   categories:
