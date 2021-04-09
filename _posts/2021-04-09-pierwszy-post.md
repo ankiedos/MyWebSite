@@ -10,9 +10,9 @@ url: https://ankiedos.github.io/2021-04-09-pierwszy-post.html # Helper for blog.
 ---
 
 ## Cześć!
-To jest pierwszy post na blogu {{ site.brand }}. Będzie w nim conieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu.
+To jest pierwszy post na blogu <!--{{ site.brand }}-->. Będzie w nim conieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu.
 
-Na imię mam Antek, jestem w {{ site.my_grade }} {% if site.my_school == "liceum" %} klasie liceum na profilu matematyczno-informatycznym grupa fizyczna {% else %} roku studiów na kierunku informatyka {% endif %}.
+Na imię mam Antek, jestem w <!--{{ site.my_grade }} {% if site.my_school == "liceum" %} klasie liceum na profilu matematyczno-informatycznym grupa fizyczna {% else %} roku studiów na kierunku informatyka {% endif %}-->.
 
 Swoją przyszłość wiążę z C++ i Haskellem, oprócz tego rozwijam język [C++Script](https://github.com/cpp-script-lang). Interesuję się informatyką teoretyczną, informatyką kwantową, administracją serwerami Apache i mechaniką kwantową.
 
