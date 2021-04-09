@@ -5,6 +5,7 @@ description: Pierwszy post na blogu
 category: Blog
 tags: blog jekyll gh-pages
 layout: post
+date: 09.04.2021
 ---
 
 ## Cześć!
