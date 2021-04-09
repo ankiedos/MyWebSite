@@ -1,6 +1,6 @@
 ---
 title: >-
-    "Pierwszy post | Oldschoolprogrammer"
+    Pierwszy post | Oldschoolprogrammer
 author: Antek
 description: "Pierwszy post na blogu"
 category: Blog
