@@ -8,6 +8,9 @@ layout: default
 ---
 
 # Strona o naukach ścisłych
-  #### [Artykuły](https://ankiedos.github.io/blog.html)
-  #### [Kategorie](https://ankiedos.github.io/kategorie.html)
-  #### [Tagi](https://ankiedos.github.io/tagi.html)
+
+#### [Artykuły](https://ankiedos.github.io/blog.html)
+
+#### [Kategorie](https://ankiedos.github.io/kategorie.html)
+
+#### [Tagi](https://ankiedos.github.io/tagi.html)
