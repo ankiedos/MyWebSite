@@ -6,7 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	  <script language="javascript" type="text/js" href="{{ '/assets/js/script.js' | relative_url }}"></script>
-    <title>{% if page.title contains " | Oldschoolprogrammer" %} {{ page.title | remove " | Oldschoolprogrammer" }} {% else %} {{ page.title}} {% endif %}</title>
+    <title>
+    {%- if page.title contains " | Oldschoolprogrammer" -%}
+      {{ page.title | remove " | Oldschoolprogrammer" }}
+    {%- else -%}
+      {{ page.title}}
+    {%- endif -%}
+    </title>
 {% seo %}
   </head>
 
