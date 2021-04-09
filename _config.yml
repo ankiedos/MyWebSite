@@ -7,4 +7,10 @@ collections:
     output: true
   posts:
     output: true
-collections_dir: sortownia
+# collections_dir: sortownia
+
+# Theme-specific config
+show_downloads: false
+title: Oldschool Programmer
+description: Blog informatyczny
+lang: pl_PL
