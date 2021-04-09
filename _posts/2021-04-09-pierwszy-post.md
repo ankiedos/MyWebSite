@@ -1,5 +1,6 @@
 ---
-title: "Pierwszy post \| Oldschoolprogrammer"
+title: >-
+    "Pierwszy post | Oldschoolprogrammer"
 author: Antek
 description: "Pierwszy post na blogu"
 category: Blog
