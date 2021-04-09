@@ -17,7 +17,7 @@ Na imię mam Antek, jestem w {{ site.my_grade }} {%- if site.my_school == "liceu
 Swoją przyszłość wiążę z C++ i Haskellem, oprócz tego rozwijam język [C++Script](https://github.com/cpp-script-lang). Interesuję się informatyką teoretyczną, informatyką kwantową, administracją serwerami Apache i mechaniką kwantową.
 
 ## Bardziej informatycznie
-Bloga tworzyłem od grudnia 2020, ale coś się ciągle psuło. Udało mi się to naprawić dopiero wczoraj.
+Bloga tworzyłem od grudnia 2020 (175 razy coś zmieniałem i dopiero wtedy wstawiłem pierwszy post), ale coś się ciągle psuło. Udało mi się to naprawić dopiero wczoraj.
 
 Opowiem Wam o tym problemie, abyście wiedzieli na przyszłość.
 

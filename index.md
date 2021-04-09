@@ -11,6 +11,6 @@ layout: default
 
 #### [Artykuły](https://ankiedos.github.io/blog.html)
 
-#### [Kategorie](https://ankiedos.github.io/kategorie.html)
+#### [Kategorie](https://ankiedos.github.io/kategorie.html) <-- nieaktywne!
 
-#### [Tagi](https://ankiedos.github.io/tagi.html)
+#### [Tagi](https://ankiedos.github.io/tagi.html) <-- nieaktywne!
