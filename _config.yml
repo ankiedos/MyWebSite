@@ -4,7 +4,7 @@ brand: Oldschoolprogrammer
 my_grade: 1
 my_school: liceum
 
-excerpt_separator: <!--eoe-->
+excerpt_separator: <!--excerpt-->
 collections:
   categories:
     output: true
