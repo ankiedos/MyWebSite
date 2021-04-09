@@ -7,7 +7,7 @@ tag: strona
 layout: default
 ---
 
-# Strona o naukach ścisłych
+# Strona główna
 
 #### [Artykuły](https://ankiedos.github.io/blog.html)
 
