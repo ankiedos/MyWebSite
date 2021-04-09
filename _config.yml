@@ -1,9 +1,5 @@
 theme: jekyll-theme-hacker
 
-# brand: Oldschoolprogrammer
-# my_grade: 1
-# my_school: liceum
-
 collections:
   categories:
     output: true
@@ -11,7 +7,6 @@ collections:
     output: true
   posts:
     output: true
-    permalink: /:collection/:name
 # collections_dir: sortownia
 
 # Theme-specific config

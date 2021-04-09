@@ -6,25 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	  <script language="javascript" type="text/js" href="{{ '/assets/js/script.js' | relative_url }}"></script>
-    <!-- <title>
-    {%- if page.title contains " | Oldschoolprogrammer" -%}
-      {{ page.title | remove " | Oldschoolprogrammer" }}
-    {%- else -%}
-      {{ page.title}}
-    {%- endif -%}
-    </title> -->
+
 {% seo %}
   </head>
 
   <body>
-
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
@@ -34,7 +26,6 @@
         </section>
       </div>
     </header>
-
     <div class="container">
       <section id="main_content">
 {{ content }}
@@ -43,7 +34,6 @@
 		<h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos.github.io">https://github.com/ankiedos/ankiedos.github.io</a></h6>
       </section>
     </div>
-
 {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
