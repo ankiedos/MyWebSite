@@ -8,8 +8,7 @@ layout: post
 ---
 
 ## Cześć!
-<!--excerpt-->
-Post trochę spóźniony, bo około 3 i pół godziny wcześniej go napisałem, ale strona się nie budowała. To jest pierwszy post na blogu {{ site.brand }}. Będzie w nim conieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu.
+Post trochę spóźniony, bo około 4 godziny wcześniej go napisałem, ale strona się nie budowała. To jest pierwszy post na blogu {{ site.brand }}. Będzie w nim conieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu.
 
 <!--excerpt-->
 
