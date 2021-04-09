@@ -1,4 +1,4 @@
-----
+---
 title: Pierwszy post | Oldschoolprogrammer
 author: Antek
 description: Pierwszy post na blogu
