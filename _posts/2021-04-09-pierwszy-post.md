@@ -21,4 +21,4 @@ Bloga tworzyłem od grudnia 2020 (175 razy coś zmieniałem i dopiero wtedy wsta
 
 Opowiem Wam o tym problemie, abyście wiedzieli na przyszłość.
 
-Jeśli tworzycie stronę na GitHub Pages i korzystacie z któregoś tam dostępnego szablonu, ale **oficjalnego**, czyli stworzonego przez GitHub Pages, a jednocześnie uczycie się Jekylla z [ich oficjalnej strony](https://jekyllrb.com), to zanim stworzycie jakikolwiek styl lub layout, **przeczytajcie informację zawartą w pliku README.md w repozytorium tego szablonu**. Na przykład ja korzystam z szablonu `hacker`, którego strona to https://github.com/pages-themes/hacker.
+Jeśli tworzycie stronę na GitHub Pages i korzystacie z któregoś tam dostępnego szablonu, a jednocześnie uczycie się Jekylla z [ich oficjalnej strony](https://jekyllrb.com), to zanim stworzycie jakikolwiek styl lub layout, **przeczytajcie informację zawartą w pliku README.md w repozytorium tego szablonu**. Na przykład ja korzystam z szablonu `hacker`, którego strona to https://github.com/pages-themes/hacker.
