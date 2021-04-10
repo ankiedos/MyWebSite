@@ -8,5 +8,5 @@ layout: default
 {%- for post in site.posts -%}
 
 - [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%Y-%m-%d" }}, autor: {{ post.author }}
-<small>{{ post.excerpt }}</small>
+<small>{{ post.excerpt | markdownify }}</small>
 {%- endfor -%}
