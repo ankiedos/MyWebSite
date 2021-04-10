@@ -9,8 +9,8 @@ layout: default
 
 # Strona główna
 
-#### [Artykuły](https://ankiedos.github.io/blog.html)
+#### [Artykuły](/blog.html)
 
-#### [Kategorie](https://ankiedos.github.io/kategorie.html) <-- nieaktywne!
+#### [Kategorie](/kategorie.html) <-- nieaktywne!
 
-#### [Tagi](https://ankiedos.github.io/tagi.html) <-- nieaktywne!
+#### [Tagi](/tagi.html) <-- nieaktywne!
