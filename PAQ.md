@@ -1,4 +1,5 @@
 ---
+permalink: https://ankiedos.github.io/PAQ.html
 title: Potencjalnie Zadawane Pytania (PAQ) \| Oldschoolprogrammer
 author: Antek
 description: PAQ
