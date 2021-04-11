@@ -1,5 +1,5 @@
 ---
-title: "Artykuły \| Oldschoolprogrammer"
+title: Artykuły \| Oldschoolprogrammer
 author: Antek
 description: Artykuły
 layout: default
