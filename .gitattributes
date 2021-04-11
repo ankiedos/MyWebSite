@@ -1,1 +1,3 @@
+_plugins/ linguist-vendored=true
+Gemfile linguist-vendored=true
 Gemfile.lock linguist-vendored=true
