@@ -6,7 +6,7 @@ my_school: liceum
 
 plugins: # For GH Pages
   - jekyll-feed
-  
+ghp: true
 excerpt_separator: <!--excerpt-->
 collections:
   categories:
