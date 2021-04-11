@@ -1,8 +1,8 @@
 - name: Strona główna
-  link: /index.html
+  link: {{"/index.html" | absolute_url }}
 # - name: O mnie
 #   link: https://ankiedos.github.io/sortownia/o-mnie-Antek.html
 - name: Potencjalnie Zadawane Pytania
-  link: /PAQ.html
+  link: {{ "/PAQ.html" | absolute_url }}
 # - name: Harmonogram
 #  link: o/harmonogram.html
