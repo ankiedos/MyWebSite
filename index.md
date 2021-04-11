@@ -1,5 +1,5 @@
 ---
-title: Strona główna | Oldschoolprogrammer
+title: Strona główna \| Oldschoolprogrammer
 author: Antek
 description: Strona główna
 category: strona
@@ -14,3 +14,5 @@ layout: default
 #### [Kategorie](/kategorie.html) <-- nieaktywne!
 
 #### [Tagi](/tagi.html) <-- nieaktywne!
+
+<footer><small>Możesz zasubskrybować przez RSS</small></footer>

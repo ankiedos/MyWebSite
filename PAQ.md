@@ -1,5 +1,5 @@
 ---
-title: Potencjalnie Zadawane Pytania (PAQ) | Oldschoolprogrammer
+title: Potencjalnie Zadawane Pytania (PAQ) \| Oldschoolprogrammer
 author: Antek
 description: PAQ
 category: strona
