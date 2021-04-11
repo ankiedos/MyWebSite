@@ -6,6 +6,8 @@ my_school: liceum
 
 plugins: # For GH Pages
   - jekyll-feed
+# whitelist:
+#   - change_site_conf
 ghp: true
 excerpt_separator: <!--excerpt-->
 collections:
