@@ -2,7 +2,7 @@
   link: /index.html
 # - name: O mnie
 #   link: https://ankiedos.github.io/sortownia/o-mnie-Antek.html
-# - name: Potencjalnie Zadawane Pytania
-#   link: /PAQ.html
+- name: Potencjalnie Zadawane Pytania
+  link: /PAQ.html
 # - name: Harmonogram
 #  link: o/harmonogram.html
