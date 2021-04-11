@@ -4,6 +4,9 @@ brand: Oldschoolprogrammer
 my_grade: 1
 my_school: liceum
 
+plugins: # For GH Pages
+  - jekyll-feed
+  
 excerpt_separator: <!--excerpt-->
 collections:
   categories:
