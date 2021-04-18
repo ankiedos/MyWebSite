@@ -13,7 +13,7 @@ plugins: # For GH Pages
 whitelist:
   - replace-h3-with-h4
 
-ghp: false
+ghp: true
 
 excerpt_separator: <!--excerpt-->
 
