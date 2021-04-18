@@ -4,12 +4,16 @@ brand: Oldschoolprogrammer
 my_grade: 1
 my_school: liceum
 
+categories:
+  - blog
+  - strona-kategorii
+  - strona
 plugins: # For GH Pages
   - jekyll-feed
 whitelist:
   - replace-h3-with-h4
 
-ghp: true
+ghp: false
 
 excerpt_separator: <!--excerpt-->
 
@@ -20,7 +24,7 @@ collections:
     output: true
   posts:
     output: true
-# collections_dir: sortownia
+collections_dir: data
 
 # Theme-specific config
 show_downloads: false

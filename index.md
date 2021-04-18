@@ -2,17 +2,17 @@
 title: Strona główna \| Oldschoolprogrammer
 author: Antek
 description: Strona główna
-category: strona
 tag: strona
 layout: default
+permalink: /
 ---
 
 # Strona główna
 
-#### [Artykuły](/blog.html)
+#### [Artykuły](/articles)
 
 #### [Kategorie](/kategorie.html) <-- nieaktywne!
 
-#### [Tagi](/tagi.html) <-- nieaktywne!
+#### [Tagi](/tags/index){%- comment -%} <-- nieaktywne! {%- endcomment %}
 
 <footer><small>Możesz zasubskrybować przez RSS</small></footer>

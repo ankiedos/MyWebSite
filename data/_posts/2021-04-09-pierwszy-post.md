@@ -1,10 +1,10 @@
 ---
-title: "Pierwszy post"
+title: Pierwszy post
 author: Antek
 description: "Pierwszy post na blogu"
-category: Blog
 tags: blog jekyll gh-pages
 layout: post
+permalink: /blog/2020/04/09/pierwszy-post
 ---
 
 ### Cześć!
