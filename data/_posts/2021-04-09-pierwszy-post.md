@@ -8,7 +8,7 @@ permalink: /blog/2020/04/09/pierwszy-post
 ---
 
 ### Cześć!
-Post trochę spóźniony, bo około 4 godziny wcześniej go napisałem, ale strona się nie budowała. To jest pierwszy post na blogu {{ site.brand }}. Będzie w nim conieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu. Jak mogliście zauważyć na stronie głównej, blog jest nadal w fazie rozwoju, ale w tym czasie będę publikował posty.
+Post trochę spóźniony, bo około 4 godziny wcześniej go napisałem, ale strona się nie budowała. To jest pierwszy post na blogu {{ site.brand }}. Będzie w nim co nieco o programowaniu, systemach operacyjnych, stronach internetowych, w tym o Jekyllu oraz o samym blogu. Jak mogliście zauważyć na stronie głównej, blog jest nadal w fazie rozwoju, ale w tym czasie będę publikował posty.
 
 <!--excerpt-->
 

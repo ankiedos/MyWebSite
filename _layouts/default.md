@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
 	  <script language="javascript" type="text/js" href="{{ '/assets/js/script.js' | relative_url }}"></script>
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ site.url }}/sitemap.xml" />
     {% feed_meta %}
@@ -34,6 +35,7 @@
         {%- include navigation.md -%}
 		    <h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos.github.io">https://github.com/ankiedos/ankiedos.github.io</a></h6>
         <h6><small>Autorem jest Antoni Kiedos | 2021 - {{ "now" | date: "%Y" }}</small></h6>
+        <h6><small>Autorem szablonu hacker jest <a href="https://github.com/pages-themes">pages-themes</a></small></h6>
       </section>
     </div>
 {%- if site.google_analytics -%}

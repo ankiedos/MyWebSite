@@ -7,3 +7,44 @@
 {
     color: black;
 }
+div.advice
+{
+    background-color: green;
+    background-image: url(/assets/img/advice.png);
+    background-image: -webkit-gradient(linear, right top, right bottom, from(#11aa03), to(#00617f));
+    background-image: -webkit-linear-gradient(top, #11aa03 0%, #00617f 100%);
+    background-image: -moz-linear-gradient(top, #11aa03 0%, #00617f 100%);
+    background-image: -o-linear-gradient(top, #11aa03 0%, #00617f 100%);
+    background-image: linear-gradient(to bottom, #11aa03 0%,#00617f 100%);
+}
+div.warning
+{
+    background-color: red;
+    background-image: url(/assets/img/warning.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#aa1703), to(#7f0000));
+    background-image: -webkit-linear-gradient(top, #aa1703 0%, #7f0000 100%);
+    background-image: -moz-linear-gradient(top, #aa1703 0%, #7f0000 100%);
+    background-image: -o-linear-gradient(top, #aa1703 0%, #7f0000 100%);
+    background-image: linear-gradient(to bottom, #aa1703 0%,#7f0000 100%);
+}
+div.annotations
+{
+    padding: 20px;
+    background-color: gray;
+    background-image: url(/assets/img/annotations.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#031caa), to(#00137f));
+    background-image: -webkit-linear-gradient(top, #031caa 0%, #00137f 100%);
+    background-image: -moz-linear-gradient(top, #031caa 0%, #00137f 100%);
+    background-image: -o-linear-gradient(top, #031caa 0%, #00137f 100%);
+    background-image: linear-gradient(to bottom, #031caa 0%,#00137f 100%);
+}
+div.bibliography
+{
+    padding: 20px;
+    background-image: url(/assets/img/bibliography.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#a7aa03), to(#7d7f00));
+    background-image: -webkit-linear-gradient(top, #a7aa03 0%, #7d7f00 100%);
+    background-image: -moz-linear-gradient(top, #a7aa03 0%, #7d7f00 100%);
+    background-image: -o-linear-gradient(top, #a7aa03 0%, #7d7f00 100%);
+    background-image: linear-gradient(to bottom, #a7aa03 0%,#7d7f00 100%);
+}
