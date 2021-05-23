@@ -27,10 +27,12 @@ Opowiem Wam o rozwiązaniu tego problemu, abyście nie musieli się tyle denerwo
 
 Jeśli tworzycie stronę na GitHub Pages i korzystacie z któregoś tam dostępnego szablonu, a jednocześnie uczycie się Jekylla z [ich oficjalnej strony](https://jekyllrb.com), to zanim stworzycie jakikolwiek styl lub layout, **przeczytajcie informację zawartą w pliku README.md w repozytorium tego szablonu**. Na przykład ja korzystam z szablonu `hacker`, którego strona to https://github.com/pages-themes/hacker.
 
-<footer>
-    <small>
-        Jekyll - generator statycznych stron internetowych (czyli takich, które nie zmienają się na stałe, po zakończeniu sesji się resetują)
-        <br>
-        GitHub Pages - darmowy serwis hostingowy oferowany przez jeden z największych na świecie serwisów programistycznych GitHub zasilany przez Jekylla
-    </small>
-</footer>
+<div class="annotations">
+    <footer>
+        <small>
+            Jekyll - generator statycznych stron internetowych (czyli takich, które nie zmienają się na stałe, po zakończeniu sesji się resetują)
+            <br>
+            GitHub Pages - darmowy serwis hostingowy oferowany przez jeden z największych na świecie serwisów programistycznych GitHub zasilany przez Jekylla
+        </small>
+    </footer>
+</div>
