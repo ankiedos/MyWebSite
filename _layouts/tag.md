@@ -4,6 +4,7 @@ tag: {{ page.tag }}
 ---
 <div>
   {%- include breadcrumbs.html %}
+  {{ content }}
   <h1>Tag: {{ page.tag }}</h1>
   <ul>
     {% for post in site.posts %}

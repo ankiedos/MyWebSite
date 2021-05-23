@@ -7,7 +7,7 @@ layout: post
 permalink: /blog/2021/04/19/konfiguracja-jekylla
 release_date: 2021-04-25
 ---
-Cześć, w dzisiejszym poście opowiem wam, jak skonfigurować Jekylla i Ruby'ego, tak aby wszystko działało. Tak, tak, wiem, że 2 tygodnie nie nic nie było, ale post trochę dłuższy niż ostatnio.
+Cześć, w dzisiejszym poście opowiem wam, jak skonfigurować Jekylla i Ruby'ego, tak aby wszystko działało. Tak, tak, wiem, że 2 tygodnie nic nie było, ale post trochę dłuższy niż ostatnio.
 <!--excerpt-->
 ### Strony internetowe -- klasyfikacja
 Najpierw rozróżnijmy poszczególne rodzaje stron internetowych. Dzielimy je nat strony **statyczne** i **dynamiczne**.
@@ -190,7 +190,7 @@ brew install rbenv
 # Zintegrujcie Rbenv z powłoką
 rbenv init
 
-# Zrestartujcie terminal i wpisz
+# Zrestartujcie terminal i wpiszcie
 rbenv install WERSJA
 rbenv global WERSJA
 # Zainstaluje to Ruby'ego
@@ -227,7 +227,7 @@ cd moja_pierwsza_strona
 ```
 W folderze `moja_pierwsza_strona` znajdziecie podfoldery `_includes`, `_layouts`, `_data`, `_posts` oraz pliki `index.md` i `_config.yml`. Najprawdopodobniej będzie jeszcze folder `.jekyll-cache`, ale jest nieważny, tylko Jekyll z niego korzysta.
 
-Jekyllem można też budować strony, których się nie wygenerowało poprzez `bundle exec jekyll new strona`, ponieważ to generuje pewien "zestaw startowy`.
+Jekyllem można też budować strony, których się nie wygenerowało poprzez `bundle exec jekyll new strona`, ponieważ to generuje pewien "zestaw startowy".
 
 Aby zbudować stronę, wpiszcie:
 ```bat

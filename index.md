@@ -15,4 +15,4 @@ permalink: /
 
 #### [Tagi](/tags/index){%- comment -%} <-- nieaktywne! {%- endcomment %}
 
-<footer><small>Możesz zasubskrybować przez RSS</small></footer>
+<footer><small>Możesz zasubskrybować przez RSS: <a href="/feed.xml">feed.xml</a></small></footer>
