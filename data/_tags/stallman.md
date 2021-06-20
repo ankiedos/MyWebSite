@@ -7,7 +7,7 @@ layout: tag
 permalink: /tags/stallman
 ---
 
-Richard Stallman to haker, wkładowca na uczelni MIT, twórca edytora GNU Emacs, systemu GNU, założyciel Projektu GNU, czołowa postać ruchu Wolnego Oprogramowania oraz założyciel i prezes FSF.
+Richard Stallman to haker, wykładowca na uczelni MIT, twórca edytora GNU Emacs, systemu GNU, założyciel Projektu GNU, czołowa postać ruchu Wolnego Oprogramowania oraz założyciel i prezes FSF.
 
 Nazywany również "świętym Ignucym Kościoła Emacsa".
 
