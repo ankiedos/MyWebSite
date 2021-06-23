@@ -6,7 +6,7 @@ tags: webdev ruby python framework sinatra flask
 layout: post
 permalink: /blog/2021/06/19/sinatra-i-flask
 ---
-# Witam wszystkich w 4 poście na tym blogu!
+### Witam wszystkich w 4 poście na tym blogu!
 Dzisiaj odejdziemy od tematu Jekylla i GNU/Linuxa, ale zostaniemy przy Rubym.
 <!--excerpt-->
 # Wstęp
@@ -16,8 +16,8 @@ W tym poście zakładam, iż macie podstawową wiedzę na temat języków Ruby l
 </div>
 
 Mały spis treści z uwagi na długość tego posta:
-- [Przykład użycia Sinatry](#przyklad-aplikacji-uzywajac-sinatry)
-- [Przykład użycia Flaska](#przyklad-aplikacji-uzywajac-flaska)
+- [Przykład użycia Sinatry](#przykład-aplikacji-używając-sinatry)
+- [Przykład użycia Flaska](#przykład-aplikacji-używając-flaska)
 
 ## Sinatra
 Sinatra to webowy framework stworony w języku Ruby, stylizowany na odrębny język. **Nie należy mylić z piosenkarzem Frankiem Sinatrą!** Aplikację internetową tworzy się z pomocą czegoś w rodzaju *callbacków*, czyli algorytmów wywoływanych w odpowiedzi na jakieś zdarzenia. Tymi zdarzeniami są polecenia HTTP, takie jak `GET`, `POST`, czy też `DELETE`.
