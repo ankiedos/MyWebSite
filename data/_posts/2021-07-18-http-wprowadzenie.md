@@ -10,6 +10,7 @@ release_date: 2021-11-26
 
 ### Cześć wszystkim!
 Na wstępie chciałbym oznajmić, że za niedługo layout strony będzie inny i możliwe, że nawigacja również się trochę zmieni.
+Oraz przepraszam za tak długą przerwę...
 <!--excerpt-->
 # HTTP
 HTTP (*Hyper Text Transfer Protocol*), jak sama nazwa mówi, jest protokołem transferu hipertekstu (dokumentów HTML, ***Hyper Text** Markup Language*). Oczywiście można za jego pomocą dokonywać transferu wielu innych zasobów (dokumenty XML, JSON, pliki tekstowe, wykonywalne, archiwa, itd.).
