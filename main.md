@@ -29,5 +29,5 @@ KONTAKT
 - [GitHub (prywatny)](https://github.com/ankiedos)
 - [EduGit (prywatny)](https://edugit.org/ank)
 - [YouTube](https://youtube.com/channel/OldschoolProgrammer)
-- [Pixelfed (prywatny)](https://pixelfed.org/4nk)
+- [Pixelfed (prywatny)](https://pixelfed.social/4nk)
 - IRC: ank/4nk
