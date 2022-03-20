@@ -4,7 +4,7 @@ author: Antek
 description: Wprowadzenie do protokołu HTTP
 tags: webdev http
 layout: post
-permalink: /blog/2021/06/19/http-wprowadzenie
+permalink: /blog/2021/07/18/http-wprowadzenie
 release_date: 2021-11-26
 ---
 

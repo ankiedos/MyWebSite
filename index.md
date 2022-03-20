@@ -9,7 +9,12 @@ permalink: /
 
 # Strona główna
 
-#### [Artykuły](/articles)
+#### [Artykuły](/articles) (archiwum)
+#### [Artykuły](https://fediverse.blog/~/OldschoolProgrammer) (nowe)
+#### [Pisma](/writings)
+#### [English/Portfolio/etc.](/personal-website)
+#### [Reszta](/main) (nowe)
+#### [Ogłoszenia](/main/announcements) (nowe)
 
 #### [Kategorie](/kategorie.html) <-- nieaktywne!
 
