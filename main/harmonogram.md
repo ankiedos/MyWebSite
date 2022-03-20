@@ -34,8 +34,13 @@ layout: default
 |21:00|            |      |xxxxx|        |       |      |           |
 
 DS - Dziennik Studenta
+
 LC - Live Coding
+
 HN - Hack News
+
 R - Recenzje
+
 DL - Dev Log
+
 EDU - GNU/Linux
