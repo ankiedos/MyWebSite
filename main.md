@@ -9,6 +9,7 @@ permalink: /main
 
 <!-- - [Harmonogram](/main/harmonogram) -->
 - [Podcasty](/main/audio/)
+- [Muzyka](/main/audio/music)
   <!-- - [Bandcamp](oldschoolprogrammer.bandcamp.com/) -->
 - [Dzienniki](/main/log/)
 - [Filmy](/main/video/)
