@@ -30,12 +30,16 @@
     </header>
     <div class="container">
       <section id="main_content">
-        {{ content }}
-    		<hr>
-        {%- include navigation.md -%}
-		    <h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos.github.io">https://github.com/ankiedos/ankiedos.github.io</a></h6>
-        <h6><small>Autorem jest Antoni Kiedos | 2021 - {{ "now" | date: "%Y" }}</small></h6>
-        <h6><small>Autorem szablonu hacker jest <a href="https://github.com/pages-themes">pages-themes</a></small></h6>
+            {{ content }}
+            <hr>
+            {%- include navigation.md -%}
+            <footer>
+                <h6><small>Możesz zasubskrybować przez RSS: <a href="/feed.xml">feed.xml</a></small></h6>
+	        <h6>Widzisz literówkę? Popraw i zgłoś: <a href="https://github.com/ankiedos/ankiedos.github.io">https://github.com/ankiedos/ankiedos.github.io</a></h6>
+                <h6><small>Autorem jest Antoni Kiedos | 2021 - {{ "now" | date: "%Y" }}</small></h6>
+                <h6><small>Autorem szablonu hacker jest <a href="https://github.com/pages-themes">pages-themes</a></small></h6>
+                <h6><img src="https://static.fsf.org/nosvn/associate/crm/5608797.png" alt="FSF Associate member since December 2022"></h6>
+            </footer>
       </section>
     </div>
 {%- if site.google_analytics -%}
